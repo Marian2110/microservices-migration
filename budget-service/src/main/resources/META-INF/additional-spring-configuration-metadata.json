@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "transaction.generate-report.cron",
+      "type": "java.lang.String",
+      "description": "Cron expression to generate transaction report."
+    },
+    {
+      "name": "transaction.confirm-transaction.cron",
+      "type": "java.lang.String",
+      "description": "Cron expression to confirm transactions."
+    },
+    {
+      "name": "transaction.generate-report.export-path",
+      "type": "java.lang.String",
+      "description": "Path to export transaction report."
+    },
+    {
+      "name": "transaction.generate-report.export-file-name",
+      "type": "java.lang.String",
+      "description": "File name of transaction report."
+    },
+    {
+      "name": "api.v1.base-path",
+      "type": "java.lang.String",
+      "description": "Base path of API v1."
+    }
+  ]
+}

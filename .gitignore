@@ -1,0 +1,6 @@
+# Project exclude paths
+/api-gateway/target/
+/budget-service/target/
+/discovery-server/target/classes/
+/.idea/
+/payment-service/target/classes/
